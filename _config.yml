@@ -1,0 +1,4 @@
+title: Mein Gartenblog
+theme: minima
+plugins:
+  - jekyll-feed
