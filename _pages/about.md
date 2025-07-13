@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Unser garten
 permalink: /about
 comments: true
 ---
@@ -8,20 +8,9 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Willkommen auf unserem Gartenblog! 🌿 Hier dokumentieren wir mit Herzblut die Entwicklung unseres kleinen Gartenparadieses – vom ersten Rasenschnitt bis zum Gewächshaus voller Tomaten. Wir berichten regelmäßig über unsere Fortschritte, teilen Erfahrungen, geben praxisnahe Tipps und lassen euch an unserer Freude am Gärtnern teilhaben. Ob Schrebergarten-Neuling oder alter Hase – hier ist für jeden etwas dabei!</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
+<p>Diese Website wurde mit Jekyll und dem Mediumish-Template erstellt und wird mit Github Pages gehostet. Sie ist unser digitales Gartentagebuch – echt, lebendig und grün.</p>
 
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
