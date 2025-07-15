@@ -13,3 +13,4 @@ comments: true
 <p>Von neuanschaffungen bishin zu alten geräten die wir übernommen haben oder gebraucht bekommen haben.</p>
 
 </div>
+</div>
