@@ -4,7 +4,8 @@ title: "Nächster Meilenstein: Rasen und Kantenschnitte, Arbeiten am Acker begon
 date: 2025-07-14
 categories: [Garten Aufräumen, Start, Acker]
 author: cd
-hidden: true
+hidden: false
+image: assets/images/2025-07-14/acker1.JPEG
 ---
 
 Heute ging’s ordentlich voran – ein weiterer Meilenstein ist geschafft.

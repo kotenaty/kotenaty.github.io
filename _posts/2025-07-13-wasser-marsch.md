@@ -5,6 +5,7 @@ date: 2025-07-13
 categories: [Garten Aufräumen, Start, Gießen]
 author: cd
 hidden: true
+image: assets/images/2025-07-13/haupthahn.JPEG
 ---
 
 Heute ging es etwas ruhiger zu. Der Fokus lag auf der Wasserversorgung im Garten.

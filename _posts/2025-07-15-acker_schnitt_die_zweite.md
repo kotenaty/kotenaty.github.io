@@ -4,7 +4,8 @@ title: "Acker, Zaun und Nachbarn: Ein produktiver Gartentag"
 date: 2025-07-15
 categories: [Garten Aufräumen, Umgraben, Nachbarschaft, Acker]
 author: cd
-hidden: true
+hidden: false
+image: assets/images/2025-07-15/freischnitt2.JPEG
 ---
 
 Heute wurde nochmal richtig rangeklotzt!
