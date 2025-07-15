@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Geräte in unserem Garten
-permalink: /about
+permalink: /zeugs
 comments: true
 ---
 
