@@ -2,7 +2,7 @@
 layout: post
 title: "Nächster Meilenstein: Rasen und Kantenschnitte, Arbeiten am Acker begonnen"
 date: 2025-07-14
-categories: [Garten Aufräumen, Start, Umgraben]
+categories: [Garten Aufräumen, Start, Acker]
 author: cd
 hidden: true
 ---
