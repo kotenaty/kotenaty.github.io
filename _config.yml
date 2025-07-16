@@ -5,7 +5,7 @@ description: "Ein Blog über unseren Garten, Pflanzen und Natur."
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
 #baseurl: /
-#google_analytics: ''
+google_analytics: ''
 #disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -62,11 +62,11 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-#adsense: "disabled"
-#adsense-data-ad-client: "ca-pub-3412143450191416"
-#adsense-data-ad-slot: "1363087678"
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-8491194385164292"
+adsense-data-ad-slot: "f08c47fec0942fa0"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
