@@ -4,7 +4,7 @@ title: "Wassermarsch! Die Blumen und Bäume freuten sich über Wasser"
 date: 2025-07-13
 categories: [Garten Aufräumen, Start, Gießen]
 author: cd
-hidden: true
+hidden: false
 image: assets/images/2025-07-13/haupthahn.JPEG
 ---
 
