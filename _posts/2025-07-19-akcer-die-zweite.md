@@ -4,7 +4,8 @@ title: "Sommertag mit viel Sonne, Schweiß und Fortschritt"
 date: 2025-07-19
 categories: [Gartenarbeit, Umgraben, Obstbäume, Aufräumen, Gewächshaus]
 author: cd
-hidden: true
+hidden: false
+image: assets/images/2025-07-19/acker_müll.JPEG
 ---
 
 **Ein langer, sehr warmer Sommertag** – Sonne pur, Temperaturen jenseits der 30 °C und ein Sonnenbrand als Erinnerung inklusive. Trotz der Hitze wurde kräftig angepackt!
