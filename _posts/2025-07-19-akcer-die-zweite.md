@@ -14,8 +14,6 @@ image: assets/images/2025-07-19/acker_müll.JPEG
 
 Ein erster wichtiger Schritt: Der **alte Metallschrott und andere Gartenabfälle** wurden sortiert und zum **Wertstoffhof** gebracht. Neben einem aufgeräumteren Gelände bedeutet das auch: weniger Verletzungsgefahr, mehr Übersicht und ein guter erster Schritt zur nachhaltigen Flächennutzung.
 
-![Schrott](/assets/images/2025-07-19/acker_müll.JPEG)
-
 ## Hinterer Acker: vom Chaos zum Pflanzbereich
 
 Danach ging es an das große Projekt: **Der hintere Acker wurde vollständig umgegraben**. Die Fläche war mit Schutt, alten Wurzeln und Steinen durchsetzt – keine einfache Aufgabe, aber mit Schweiß und Geduld wurde aus wildem Untergrund wieder nutzbares Beet.
@@ -31,9 +29,9 @@ In trockenen Sommermonaten ist Umgraben besonders anstrengend – aber auch effe
 
 Eine besondere Aktion war die Umsetzung eines **jungen Obstbaums**, vermutlich eine **Pflaume**, an einen neuen, besser geeigneten Platz. Der Baum stand bislang beengt und bekam wenig Licht. Jetzt hat er Luft, Raum und volle Sonne.
 
-![Pflaume](/assets/images/2025-07-19/Pflaume_alt.JPEG)  
+![Pflaume](/assets/images/2025-07-19/pflaume_alt.JPEG)  
 
-![Pflaume](/assets/images/2025-07-19/Pflaume_neu.JPEG)
+![Pflaume](/assets/images/2025-07-19/pflaume_neu.JPEG)
 
 💡 **Hinweis zum Umpflanzen von Obstbäumen**  
 Grundsätzlich pflanzt man Bäume am besten im Herbst oder zeitigen Frühjahr. Doch in Ausnahmefällen – wie bei Neupositionierung in der eigenen Fläche – ist es auch im Sommer möglich, wenn:
