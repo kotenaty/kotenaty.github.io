@@ -18,6 +18,7 @@ Heute wurde nochmal richtig rangeklotzt!
 - Da es der **letzte Tag mit Container** war, haben wir die Gelegenheit genutzt: Entlang des Zauns wurden **Wein, Büsche und Bäume zurückgeschnitten**. Viel Totholz und verwachsene Stellen wurden entfernt.
 
 ![Freischnitt](/assets/images/2025-07-15/freischnitt1.JPEG)  
+
 ![Freischnitt](/assets/images/2025-07-15/freischnitt2.JPEG)
 
 - Insgesamt war es ein **sehr erfolgreicher Tag**, mit deutlichem Fortschritt im Garten.
