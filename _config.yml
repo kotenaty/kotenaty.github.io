@@ -1,11 +1,12 @@
 # Site
-name: "Wachsen & Werden"
-title: "Unser Kleingarten-Projekt"
-description: "Ein persönlicher Blog über unser Leben im Kleingarten, vom Umgraben bis zur Feigenernte – mit viel Liebe zur Natur. Sowie Geschichten, Fortschritt, Fotos und Tipps aus unserem Kleingarten."
+name: "Kleingartenleben – Gartenarbeit, Ernte und Natur erleben"
+title: "Kleingarten Blog – Tipps, Projekte & Gartenalltag"
+description: "Erlebe mit uns den Alltag im Kleingarten: vom Umgraben und Pflanzen über Obst- und Gemüseernte bis hin zu praktischen Tipps für Hobbygärtner. Unser Gartentagebuch zeigt die ganze Vielfalt des Gärtnerns."
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
 baseurl: /
 google_analytics: ''
+tagline: 
 disqus: 'kleingarten'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
