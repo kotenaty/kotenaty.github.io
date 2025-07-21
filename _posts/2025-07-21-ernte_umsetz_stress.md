@@ -30,7 +30,7 @@ Hier ein paar Ideen:
 
 Auch bei den **Brombeeren** geht’s weiter. Die Sträucher tragen reich, und die süßen, tiefdunklen Früchte eignen sich perfekt zum Einfrieren, Einkochen oder sofortigen Vernaschen.
 
-![Brombeeren](/assets/images/2025-07-21/brombeeren.JPEG)
+![Brombeeren](/assets/images/2025-07-21/brombeere.JPEG)
 
 ## Pfingstrose und Lavendel unter Stress
 

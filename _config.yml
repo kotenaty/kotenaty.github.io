@@ -1,7 +1,7 @@
 # Site
-name: "Unser Gartenblog"
-title: "Gartenblog"
-description: "Ein Blog über unseren Garten, Pflanzen und Natur."
+name: "Wachsen & Werden"
+title: "Unser Kleingarten-Projekt"
+description: "Ein persönlicher Blog über unser Leben im Kleingarten, vom Umgraben bis zur Feigenernte – mit viel Liebe zur Natur. Sowie Geschichten, Fortschritt, Fotos und Tipps aus unserem Kleingarten."
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
 baseurl: /
