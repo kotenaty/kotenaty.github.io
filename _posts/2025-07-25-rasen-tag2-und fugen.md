@@ -39,6 +39,7 @@ Ein solches Beet spart Platz, ist gut zugänglich und könnte besonders für Kr�
 ## Der Rasen – ein Geduldsspiel
 
 Beim ausgesäten Rasen ist **noch nichts zu sehen**. Wir gießen regelmäßig weiter, heute bei **ca. 21 °C, bewölktem Himmel und gelegentlichem Nieselregen**. Beste Bedingungen für die Keimung – aber es heißt weiter: **abwarten und gießen**.
+
 ![Rasen 2025-07-25](/assets/images/2025-07-25/rasen0725.JPEG)
 
 ---
