@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Rasensaat & Wegebau – Ein erster Versuch auf neuem Terrain"
-date: 2025-07-26
+date: 2025-07-27
 categories: [Aussaat, Wege, Gartenarbeit, Rasen]
 author: cd
 hidden: true
 featured: true
-image: /assets/images/2025-07-26/spinat.JPEG
+image: /assets/images/2025-07-27/spinat.JPEG
 ---
 
 - es hat sich mittlerweile echt viel getan. daher mal als titel bild der blick von vorne im vergleich zu vorher

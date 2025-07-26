@@ -12,25 +12,26 @@ comments: true
 
 <p>Von neuanschaffungen bishin zu alten geräten die wir übernommen haben oder gebraucht bekommen haben.</p>
 
-<p>Gartenhandschuhe</p>
-<p>Fiskars Spaten</p>
+<p class="fett">>Gartenhandschuhe</p>
+<p class="fett">>Fiskars Spaten</p>
 <img src="{{ site.baseurl }}/assets/images/zeugs/spaten.JPEG">
-<p>Laubbesen</p>
-<p>Gardena Besen</p>
-<p>Gardena Fugenkratzer</p>
-<p>Gardena Schlauchkupplung</p>
-<p>Gardena Schlauch Reinigungsspritze</p>
-<p>Gardena Kleingrubber</p>
-<p>Gardena Unkrauthacke</p>
-<p>Gardena Grasschere</p>
-<p>25m Verlängerungskabel</p>
+<p class="fett">>Laubbesen</p>
+<img src="{{ site.baseurl }}/assets/images/zeugs/laubbesen.JPEG">
+<p class="fett">>Gardena Besen</p>
+<p class="fett">>Gardena Fugenkratzer</p>
+<p class="fett">>Gardena Schlauchkupplung</p>
+<p class="fett">>Gardena Schlauch Reinigungsspritze</p>
+<p class="fett">>Gardena Kleingrubber</p>
+<p class="fett">>Gardena Unkrauthacke</p>
+<p class="fett">>Gardena Grasschere</p>
+<p class="fett">>25m Verlängerungskabel</p>
 
 
 
-<p>Rechen (alt)</p>
-<p>Rasenmäher (alt)</p>
-<p>Seitenschneider (alt)</p>
-<p>25m Schlauch (alt)</p>
+<p class="fett">>Rechen (alt)</p>
+<p class="fett">>Rasenmäher (alt)</p>
+<p class="fett">>Seitenschneider (alt)</p>
+<p class="fett">>25m Schlauch (alt)</p>
 
 
 
