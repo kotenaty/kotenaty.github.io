@@ -12,5 +12,27 @@ comments: true
 
 <p>Von neuanschaffungen bishin zu alten geräten die wir übernommen haben oder gebraucht bekommen haben.</p>
 
+<p>Gartenhandschuhe</p>
+<p>Fiskars Spaten</p>
+<img src="{{ site.baseurl }}/assets/images/zeugs/spaten.JPEG">
+<p>Laubbesen</p>
+<p>Gardena Besen</p>
+<p>Gardena Fugenkratzer</p>
+<p>Gardena Schlauchkupplung</p>
+<p>Gardena Schlauch Reinigungsspritze</p>
+<p>Gardena Kleingrubber</p>
+<p>Gardena Unkrauthacke</p>
+<p>Gardena Grasschere</p>
+<p>25m Verlängerungskabel</p>
+
+
+
+<p>Rechen (alt)</p>
+<p>Rasenmäher (alt)</p>
+<p>Seitenschneider (alt)</p>
+<p>25m Schlauch (alt)</p>
+
+
+
 </div>
 </div>
