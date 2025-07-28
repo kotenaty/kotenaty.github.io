@@ -5,7 +5,7 @@ date: 2025-07-21
 categories: [Ernte, Pflanzenpflege, Umpflanzen, Sommer]
 author: cd
 hidden: false
-featured: true
+featured: false
 image: assets/images/2025-07-21/ernte.JPEG
 ---
 
