@@ -6,6 +6,7 @@ categories: [Rasen, Wetter, Frust, Gartenalltag]
 author: cd
 hidden: false
 featured: false
+toc: true
 image: assets/images/2025-07-28/rasenkeim.JPEG
 ---
 
