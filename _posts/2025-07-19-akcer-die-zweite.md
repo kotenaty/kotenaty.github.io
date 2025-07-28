@@ -4,7 +4,7 @@ title: "Sommertag mit viel Sonne, Schweiß und Fortschritt"
 date: 2025-07-19
 categories: [Gartenarbeit, Umgraben, Obstbäume, Aufräumen, Gewächshaus]
 author: cd
-hidden: false
+toc: true
 image: assets/images/2025-07-19/acker_müll.JPEG
 ---
 

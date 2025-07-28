@@ -4,7 +4,7 @@ title: "Fugenarbeit, Beetplanung und Geduld beim Rasen"
 date: 2025-07-25
 categories: [Gartenarbeit, Wege, Planung, Rasen, Beet]
 author: cd
-hidden: false
+toc: true
 image: assets/images/2025-07-25/bspbeet.png
 ---
 

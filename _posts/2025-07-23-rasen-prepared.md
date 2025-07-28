@@ -4,7 +4,7 @@ title: "Vorbereitung für Rasen, Spinat im Gewächshaus und Pflanzpflege"
 date: 2025-07-23
 categories: [Gartenarbeit, Aussaat, Beete, Pflege]
 author: cd
-hidden: false
+toc: true
 image: assets/images/2025-07-23/rasen.JPEG
 ---
 

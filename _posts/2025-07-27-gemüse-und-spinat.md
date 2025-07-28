@@ -4,8 +4,8 @@ title: "Neue Gemüsepflanzen und ein Blick zurück: Was sich alles verändert ha
 date: 2025-07-27
 categories: [Gemüse, Rasen, Rückblick, Gewächshaus, Fortschritt]
 author: cd
-hidden: false
 featured: true
+toc: true
 image: assets/images/2025-07-27/ueberblick_0727.JPEG
 ---
 
