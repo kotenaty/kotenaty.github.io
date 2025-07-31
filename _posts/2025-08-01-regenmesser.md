@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rhabarber im Eimer, Spinat im Urwald und Rasen auf dem Weg"
-date: 2025-07-30
+date: 2025-08-01
 categories: [Gemüse, Rhabarber, Unkraut, Rasen]
 author: cd
 toc: true
