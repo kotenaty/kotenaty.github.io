@@ -25,6 +25,8 @@ comments: true
 <p><strong>Gardena Unkrauthacke</strong></p>
 <p><strong>Gardena Grasschere</strong></p>
 <p><strong>25m Verlängerungskabel</strong></p>
+<p><strong>Regenmesser</strong></p>
+<img src="{{ site.baseurl }}/assets/images/zeugs/regenmesser.JPEG">
 
 <p><strong>Rechen (alt)</strong></p>
 <p><strong>Rasenmäher (alt)</strong></p>
