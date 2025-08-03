@@ -1,17 +1,58 @@
 ---
 layout: post
-title: "Rhabarber im Eimer, Spinat im Urwald und Rasen auf dem Weg"
+title: "Regen, Reben und Rasenfreuden"
 date: 2025-08-01
-categories: [Gemüse, Rhabarber, Unkraut, Rasen]
+categories: [Rasen, Wetter, Obst, Garten-Alltag]
 author: cd
 toc: true
-hidden: true
 image: assets/images/zeugs/regemesser.JPEG
 ---
 
-- regenmesser gekauft, nachdem heftigen resen letztes wollt eich nun gerne genau wissen wieviel regen immer fällt. auch wenn ich damit nichts anfangen kann, mich interessiert es einfach. kostete 6€. also n schnapper
+## Technik fürs Wetter: Der Regenmesser zieht ein ☔
+
+Nach dem heftigen Regen neulich wollte ich endlich mal **genau wissen**, wie viel da eigentlich runterkommt –  
+auch wenn ich **nichts Sinnvolles mit den Werten anfangen kann**, ich will’s einfach wissen. 😄  
+Also für **6 € einen Regenmesser gekauft** – ein echtes Schnäppchen!
 
 ![Regenmesser](/assets/images/zeugs/regenmesser.JPEG)
 
-- der Wein wird blau! Ich dachte es wären normale weintrauben, aber scheinbar lag ich falsch. kennt sich da jemand aus? wir, wie so oft, natürlich nicht. also mal die gängigen suchmaschinen anschmeißen.
+Und was soll ich sagen…  
+In der **ersten Nacht direkt 5 l/m² gefallen** – also **kein Rasen wässern nötig**.  
+Schon irgendwie verrückt:  
+Früher kannte ich das nur von meiner Oma, wie sie regelmäßig im Garten nachschaute,  
+**wie viel Regen gefallen war.**  
+Jetzt steh ich da genauso. Willkommen im Club.
+
+![Regen](/assets/images/2025-08-01/regen5l.JPEG)
+
+---
+
+## Wein wird… blau? 🍇
+
+Ein Blick zur Überdachung: Der **Wein färbt sich langsam dunkelblau!**  
+Ich war eigentlich felsenfest davon überzeugt, dass es ganz normale grüne Weintrauben sind –  
+aber offenbar hab ich mich **mal wieder geirrt.**
+
 ![Wein](/assets/images/2025-08-01/wein.JPEG)
+
+Kennt sich jemand mit Sorten aus?  
+Wir natürlich nicht. Wie so oft: Suchmaschine anschmeißen und hoffen, dass’s erkennbar ist.
+
+---
+
+## Rasen-Update 🌱
+
+Es **läuft weiterhin gut!**  
+Der frisch gesäte Rasen macht sich echt prächtig – saftig, grün, überall neue Halme.  
+Ich bin gespannt, **ab wann wir ihn betreten dürfen**, ohne alles gleich wieder platt zu machen.  
+Falls jemand Erfahrungswerte hat – gerne melden!
+
+![Rasen](/assets/images/2025-08-01/rasen0801.JPEG)
+
+---
+
+### Fazit heute:
+
+- Neue Gadgets machen den Alltag irgendwie cooler (Regenmesser 😎).
+- Wein überrascht uns mal wieder.
+- Der Rasen wächst, das Herz freut sich.
