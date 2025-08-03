@@ -12,7 +12,7 @@ image: assets/images/2025-08-03/salat.JPEG
 
 Heute haben wir die Fugen im Gartenweg **nicht einfach leer gelassen**, sondern mit **Sandthymian** bepflanzt.
 
-![Fugen](/assets/images/2025-08-03/fugen.JPEG)
+![Fugen](/assets/images/2025-08-03/fugen.jpg)
 
 ### 🧠 Lernen wir heute: Was kann Sandthymian?
 
@@ -42,14 +42,14 @@ Das Beet rund um die Brombeeren wurde heute **gründlich vom Unkraut befreit**.
 
 Vorher:
 
-![Brombeeren Beet vorher](/assets/images/2025-08-03/brombeerev.JPEG)
+![Brombeeren Beet vorher](/assets/images/2025-08-03/brombeerev.jpg)
 
 Danach haben wir gleich **Bodendecker eingesetzt** – in der Hoffnung, dass diese sich durchsetzen  
 und das Beikraut in Schach halten.
 
 Nachher:
 
-![Brombeeren Beet nachher](/assets/images/2025-08-03/brombeeren.JPEG)
+![Brombeeren Beet nachher](/assets/images/2025-08-03/brombeeren.jpg)
 
 ---
 
