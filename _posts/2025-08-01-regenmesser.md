@@ -5,7 +5,7 @@ date: 2025-08-01
 categories: [Rasen, Wetter, Obst, Garten-Alltag]
 author: cd
 toc: true
-image: assets/images/zeugs/regemesser.JPEG
+image: assets/images/zeugs/regenmesser.JPEG
 ---
 
 ## Technik fürs Wetter: Der Regenmesser zieht ein ☔
