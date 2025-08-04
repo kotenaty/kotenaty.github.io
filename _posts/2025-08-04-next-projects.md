@@ -5,7 +5,7 @@ date: 2025-08-04
 categories: [Garten-Alltag, Planung, Rasen, Beete]
 author: cd
 toc: true
-image: assets/images/2025-08-03/salat.JPEG
+image: assets/images/2025-08-03/rasenimeimer0804.JPEG
 ---
 
 ## Neue Woche, neue Ideen 💡
