@@ -5,7 +5,7 @@ date: 2025-08-10
 categories: [Randsteine, Rasen, Ernte, Obst, Gemüse]
 author: cd
 toc: true
-image: assets/images/2025-08-03/rasenimeimer0804.JPEG
+image: assets/images/2025-08-10/rasen0808.JPEG
 ---
 
 Nach einer kurzen Krankheitspause sind wir wieder voll im Einsatz – das Wochenende wurde genutzt, um im Garten einiges voranzubringen.
