@@ -41,7 +41,7 @@ Der Rasen hat einen deutlichen Sprung gemacht.
 Das Vorziehen im Topf hatte leider nicht den gewünschten Effekt – vermutlich haben wir die Erde, in der die Saat lag, zu stark gegossen.  
 Dennoch haben wir die vorgezogene Saat auf eine kahle Stelle verteilt – mal sehen, ob noch was kommt.
 
-![Rasen](/assets/images/2025-08-10/rasen0808.JPEG)
+![Rasen](/assets/images/2025-08-10/rand1.JPEG)
 
 ---
 
