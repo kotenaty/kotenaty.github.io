@@ -1,6 +1,6 @@
 ---
 title: "Der Garten ruft: Rasenschnitt, Mulch und die Saftfabrik im Weinland!"
-date: 2025-10-21
+date: 2025-10-22
 layout: post
 categories: [Gartenarbeit, Ernte, DIY]
 tags: [mulchen, Rasenpflege, Weintrauben, entsaften, Erntezeit, Gartentipps]
