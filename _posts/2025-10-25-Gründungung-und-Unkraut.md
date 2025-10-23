@@ -14,7 +14,7 @@ Was für ein Wochenende! Nach einem doch recht trüben Start am Samstagmorgen ha
 
 ## Endlich freie Sicht! Unkraut ade!
 
-Puh, was für eine Plackerei! Aber es hat sich gelohnt. Quadratmeter für Quadratmeter haben wir uns durch die verbliebenen Ackerflächen und Hochbeete gearbeitet. Jeder Wurzelstumpf wurde liebevoll – oder sagen wir: entschlossen – entfernt. Jetzt ist wirklich nirgends mehr Unkraut zu finden! (Okay, vielleicht muss man an der einen oder anderen Stelle ein Auge zudrücken, aber im Großen und Ganzen: Sieg!) Es ist ein unglaubliches Gefühl, wenn man auf die frisch geleerten Flächen blickt und sich vorstellt, was da bald alles wachsen kann. Der Rücken schmerzt zwar ein bisschen, aber die Seele lächelt. Man merkt erst, wie viel man geschafft hat, wenn man eine Pause macht und das Ergebnis sieht.
+Puh, was für eine Plackerei! Aber es hat sich gelohnt. Quadratmeter für Quadratmeter haben wir uns durch die verbliebenen Ackerflächen und Beete gearbeitet. Jeder Wurzelstumpf wurde liebevoll – oder sagen wir: entschlossen – entfernt. Jetzt ist wirklich nirgends mehr Unkraut zu finden! (Okay, vielleicht muss man an der einen oder anderen Stelle ein Auge zudrücken, aber im Großen und Ganzen: Sieg!) Es ist ein unglaubliches Gefühl, wenn man auf die frisch geleerten Flächen blickt und sich vorstellt, was da bald alles wachsen kann. Der Rücken schmerzt zwar ein bisschen, aber die Seele lächelt. Man merkt erst, wie viel man geschafft hat, wenn man eine Pause macht und das Ergebnis sieht.
 
 ## Ein grünes Geheimnis beim Nachbarn: Phacelia!
 
