@@ -1,13 +1,13 @@
 ---
 title: "Der Kampf gegen das Grün – und die Entdeckung der Phacelia!"
-date: 2024-05-18
+date: 2025-10-25
 layout: post
 categories: [Garten, Permakultur, DIY]
 tags: [Unkraut, Gründüngung, Phacelia, Gartenarbeit, Bodengesundheit]
 excerpt: "Dieses Wochenende haben wir den restlichen Beeten den Kampf angesagt, das Unkraut erfolgreich vertrieben und eine spannende neue Entdeckung gemacht: Gründüngung mit Phacelia! Mal sehen, ob der Boden es uns dankt."
 author: cd
 toc: true
-image: assets/images/2024-05-18/phacelia_closeup.jpg
+image: assets/images/2025-10-25/freieacker.jpg
 ---
 
 Was für ein Wochenende! Nach einem doch recht trüben Start am Samstagmorgen hat sich die Sonne am Nachmittag dann doch noch blicken lassen und uns mit warmer Luft verwöhnt. Perfekt, um endlich die letzten Beete und Äcker in Angriff zu nehmen, die noch unter der Herrschaft des Wildwuchses standen. Manchmal fühlt es sich an, als würde man gegen Windmühlen kämpfen, aber die Motivation war da – dieses Mal wollte ich es wirklich wissen!
@@ -32,15 +32,13 @@ Phacelia, auch Bienenfreund oder Büschelschön genannt, ist eine **Gründüngun
 
 Also, das klang ja fast zu gut, um wahr zu sein! Wir waren sofort Feuer und Flamme.
 
-![Phacelia auf dem Feld](/assets/images/2024-05-18/phacelia_feld.jpg)
+![Phacelia auf dem Feld](/assets/images/2025-10-25/freieacker.jpg)
 
 ## Ab in den Gartenhandel und rauf aufs Beet!
 
 Die Entscheidung war schnell getroffen: Gründüngung muss her! Also ging es schnurstracks zum Gartenhandel unseres Vertrauens. Mit einem großen Sack Phacelia-Samen bewaffnet, machten wir uns ans Werk. Insgesamt haben wir anderthalb unserer Äcker und eine Hälfte unseres Gewächshauses damit eingesät. Es war ein bisschen wie ein Wettrennen gegen die Zeit, denn wir wollten, dass die Samen noch gut anwachsen, bevor es vielleicht doch wieder kälter wird.
 
 Jetzt sind wir natürlich mega gespannt, ob es hält, was versprochen wird. Wird die Phacelia wirklich so gut den Boden verbessern und das Unkraut in Schach halten? Oder war unser bisheriger Mulch doch die bessere Lösung? Die nächsten 14 Tage werden es zeigen – dann sollten wir schon ein schönes, neues, gewolltes Grün auf unseren Äckern haben. Ich halte euch auf dem Laufenden! Drückt uns die Daumen!
-
-![Frisch gesäte Phacelia](/assets/images/2024-05-18/phacelia_saat.jpg)
 
 ---
 
