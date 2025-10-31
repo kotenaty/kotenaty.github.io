@@ -1,13 +1,13 @@
 ---
 title: "Herbstliche Gartenfreuden: Knoblauch & Erdbeeren pflanzen 🧄🍓"
-date: "2025-10-21"
+date: "2025-10-31"
 layout: post
 categories: [Garten, Anbau, Herbst]
 tags: [Knoblauch, Erdbeeren, Pflanzzeit, Herbstgarten, Selbstversorgung]
 excerpt: "Ein Blick in unseren Herbstgarten: Wir haben fleißig Steckknoblauch und Erdbeerableger gepflanzt. Chaos und Freude garantiert!"
 author: cd
 toc: true
-image: assets/images/2025-10-21/knoblauch.jpg
+image: assets/images/2025-10-31/knoblauch.jpg
 ---
 
 ### Hallo liebe Gartenfreunde! 👋
@@ -22,7 +22,7 @@ Heute stand etwas auf dem Plan, das wir schon länger vorhatten: Steckknoblauch 
 
 Die restlichen Acker sind ja schon fleißig mit Gründünger und Mulch belegt. Da kommen wir echt schon an die Grenzen unserer Anbaufläche – das hätte ich so nicht gedacht! 😂 Aber hey, das ist doch ein gutes Zeichen, oder? Das Bild ist übrigens eine super Erinnerung für mich, wo genau wir ausgesät haben, damit ich im Frühjahr nicht suchen muss!
 
-![Aussaat Knoblauch](/assets/images/2025-10-21/knoblauch.jpg)
+![Aussaat Knoblauch](/assets/images/2025-10-31/knoblauch.jpg)
 
 ---
 
@@ -30,7 +30,7 @@ Die restlichen Acker sind ja schon fleißig mit Gründünger und Mulch belegt. D
 
 Schon seit einer ganzen Weile hatten wir Erdbeerableger im Haus, die im Wasser fleißig Wurzeln gebildet haben. Heute war endlich der große Tag: ab ins Beet damit! Und was soll ich sagen? Im Nachhinein ist das alles sehr krumm und schief geworden. 😂 Aber wisst ihr was? Das ist doch super! So passen dann noch viel mehr Ableger dazwischen, wenn wir mal wieder welche haben. Wir lieben Erdbeeren einfach – und je mehr, desto besser! Hoffen wir, dass sie alle gut anwachsen und uns nächstes Jahr mit leckeren Früchten verwöhnen.
 
-![Erdbeeren Ableger](/assets/images/2025-10-21/erdbeeren.jpg)
+![Erdbeeren Ableger](/assets/images/2025-10-31/erdbeeren.jpg)
 
 ---
 
