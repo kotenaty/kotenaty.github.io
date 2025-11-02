@@ -1,6 +1,6 @@
 ---
 title: "Herbstliche Pflanzfreuden und Blattlaus-Blues"
-date:"2025-11-02"
+date: "2025-11-02"
 layout: post
 categories: [Gartenarbeit, Gemüseanbau, Herbstgarten]
 tags: [Basilikum, Rucola, Spinat, Knoblauch, Zwiebeln, Kohl, Brokkoli, Blattläuse, Herbstpflanzung]
