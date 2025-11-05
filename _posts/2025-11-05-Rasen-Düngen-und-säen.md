@@ -20,7 +20,7 @@ Nachdem wir den Rasen ein letztes Mal ordentlich kurz gehalten haben, war es Mit
 
 Außerdem habe ich mich endlich einer Stelle angenommen, die mich schon den ganzen Sommer über genervt hat: Da, wo mal die Buxbaumhecke stand, wucherte seither nur noch Unkraut. Ein echter Dorn im Auge! Ich habe die Fläche so gut es ging vorbereitet und dann Rasen nachgesät. Ich muss zugeben, ich war nicht 100% ordentlich – die Zeit war knapp und meine Erwartungen an eine Herbstaussaat sind auch nicht übertrieben hoch. Aber hey, einen Versuch ist es wert! Ich bin schon gespannt und werde euch im Frühjahr berichten, ob sich meine Mühe gelohnt hat. Daumen drücken! 😉
 
-![Herbst Rasen](assets/images/2025-11-05/herbstrasen.jpg)
+![Herbst Rasen](/assets/images/2025-11-05/herbstrasen.jpg)
 
 ## Ausblick: Der große Herbstputz und ein neues Beet!
 
