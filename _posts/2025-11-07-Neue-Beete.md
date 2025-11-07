@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Zwei neue Beete – chaotisch charmant!"
 date: "2025-11-07"
