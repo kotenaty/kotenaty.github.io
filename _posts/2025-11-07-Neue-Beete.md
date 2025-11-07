@@ -20,7 +20,7 @@ Endlich haben wir uns an ein Projekt gewagt, das schon länger auf unserer Liste
 
 Das Abstecken des Rasens war dann zum Glück easy zu verbessern. Eine einfache Schnur hat da Wunder gewirkt! Entlang dieser Schnur habe ich dann auch direkt die Kantensteine gesetzt. Das war allerdings eine kleine Herausforderung, denn wir hatten keine einheitlichen Steine mehr. Also wurde es ein bunter Mix aus allem, was wir noch so gefunden haben. Sieht natürlich alles andere als professionell aus, aber wer ist hier schon Profi? 😉 Ich find's charmant und es gibt dem Ganzen einen ganz persönlichen Touch. Manchmal muss es einfach unperfekt sein, oder?
 
-Auf dem ersten Foto könnt ihr noch mal schön die Fläche des zukünftigen Beetes sehen, wie sie vorher aussah – noch ganz Wiese! Das zweite Bild zeigt dann schon das Ergebnis mit den frisch abgestochenen Kanten und den wild zusammengewürfelten Steinen. Ich bin gespannt, was wir hier als Nächstes pflanzen werden!
+Auf dem zweiten Foto könnt ihr noch mal schön die Fläche des zukünftigen rasens sehen, wie sie vorher aussah – noch ganz Wiese! Auch auf den Bildern zu sehen das Ergebnis mit den frisch abgestochenen Kanten und den wild zusammengewürfelten Steinen. Ich bin gespannt, was wir hier als Nächstes pflanzen werden!
 
 ![Beet 1](/assets/images/2025-11-07/rand1.jpg)
 *Hier, wo bald was Schönes wächst!*
